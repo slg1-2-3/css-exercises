@@ -1,0 +1,20 @@
+.class {
+    background: rgb(246, 174, 174);
+    color: rgb(0, 0, 0);
+}
+
+#two{
+    color: rgb(40, 51, 201);
+    font-size: 30px;
+}
+
+#four{
+    background: rgb(173, 255, 47);
+    color: rgb(0,0,0);
+    font-size: 20px;
+}
+
+.cool {
+    font-weight: 600;
+    font-size: 20px;
+}
